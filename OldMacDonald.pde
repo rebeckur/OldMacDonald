@@ -1,4 +1,3 @@
-
 public void setup()
 {
 	Farm oldFarm = new Farm();

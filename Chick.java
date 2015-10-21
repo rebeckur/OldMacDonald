@@ -7,14 +7,14 @@ class Chick implements Animal
     	myType = type;
         if ((int)(Math.random()*2) == 0)
         {
-    	   mySound = sound1;
+            mySound = sound1;
         }
         else
         {
             mySound = sound2;
         }
     }
-    public Cow()
+    public Chick()
     {         
         myType = "unknown";         
         mySound = "unknown";     
